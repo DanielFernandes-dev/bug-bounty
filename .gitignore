@@ -1,0 +1,14 @@
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sql
+.DS_Store
+node_modules/
+__pycache__/
+.venv/
+reports/
+out/
