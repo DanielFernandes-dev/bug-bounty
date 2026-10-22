@@ -1,0 +1,9 @@
+### spectral lint (ruleset corrigido: pattern/notMatch)
+
+/home/daniel/Documentos/ChatGPT/bug bounty/labs/artifacts/juiceshop-swagger.yml
+  4:10  error  no-http-servers        Servidores devem usar HTTPS           servers[0].url
+ 20:10  error  require-auth-on-write  Operacoes de escrita exigem security  paths./orders.post
+
+✖ 2 problems (2 errors, 0 warnings, 0 infos, 0 hints)
+
+exit=1
